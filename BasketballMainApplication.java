@@ -1,7 +1,4 @@
-//Jon Mitnick
-//ITN-261-2W1
-//Final Project
-//April 27, 2022
+
 
 import java.io.File;
 import java.io.FileWriter;
